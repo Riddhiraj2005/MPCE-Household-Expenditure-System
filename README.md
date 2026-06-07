@@ -1,3 +1,7 @@
+## Live Demo
+
+https://mpce-household-expenditure-system-usbcczzpyneew6zt7f92wa.streamlit.app/
+
 # MPCE Insight360
 
 AI-Powered Household Expenditure Intelligence System for predicting Monthly Per Capita Expenditure and analyzing rural-urban consumption patterns.
